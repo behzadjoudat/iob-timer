@@ -3,7 +3,7 @@ LIB_DIR=submodules/LIB
 
 export
 
-setup:
+setup1:
 	make -C $(LIB_DIR) $@
 
 clean:
